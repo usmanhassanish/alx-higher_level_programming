@@ -7,4 +7,3 @@ def no_c(my_string):
         if x != remove_char and x != remove_char2:
             new_string += x
     return new_string
-
